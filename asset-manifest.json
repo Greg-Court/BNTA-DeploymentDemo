@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/BNTA-DeploymentDemo/static/css/main.073c9b0a.css",
-    "main.js": "/BNTA-DeploymentDemo/static/js/main.c416eabe.js",
+    "main.js": "/BNTA-DeploymentDemo/static/js/main.a75065da.js",
     "static/js/787.76e5b9ab.chunk.js": "/BNTA-DeploymentDemo/static/js/787.76e5b9ab.chunk.js",
     "static/media/logo.svg": "/BNTA-DeploymentDemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/BNTA-DeploymentDemo/index.html",
     "main.073c9b0a.css.map": "/BNTA-DeploymentDemo/static/css/main.073c9b0a.css.map",
-    "main.c416eabe.js.map": "/BNTA-DeploymentDemo/static/js/main.c416eabe.js.map",
+    "main.a75065da.js.map": "/BNTA-DeploymentDemo/static/js/main.a75065da.js.map",
     "787.76e5b9ab.chunk.js.map": "/BNTA-DeploymentDemo/static/js/787.76e5b9ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c416eabe.js"
+    "static/js/main.a75065da.js"
   ]
 }
