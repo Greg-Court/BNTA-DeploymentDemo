@@ -12,10 +12,15 @@ import Contact from "./Contact";
 
 function App() {
   const router = createBrowserRouter([
-    { path: "/", element: <Welcome /> },
-    { path: "/about", element: <About /> },
-    { path: "/projects", element: <Projects /> },
-    { path: "/contact", element: <Contact /> },
+    {
+      path: "/",
+      element: <Welcome />,
+      children: [
+        { path: "/about", element: <About /> },
+        { path: "/projects", element: <Projects /> },
+        { path: "/contact", element: <Contact /> },
+      ],
+    },
   ]);
 
   return <RouterProvider router={router} />;
